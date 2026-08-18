@@ -1,0 +1,6 @@
+chroma_db/
+*.sqlite3
+*.db
+.ipynb_checkpoints/
+.env
+

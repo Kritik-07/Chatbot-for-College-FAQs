@@ -1,0 +1,712 @@
+[
+  {"id": 1, "category": "Admissions & Eligibility", "question": "Where is T. John Institute of Technology (TJIT) located?", "answer": "TJIT is located at Gottigere, Bannerghatta Road, Bangalore, Karnataka, India - 560083."},
+  {"id": 2, "category": "Admissions & Eligibility", "question": "Which university is TJIT affiliated with?", "answer": "T. John Institute of Technology is affiliated with Visvesvaraya Technological University (VTU), Belagavi, and approved by AICTE."},
+  {"id": 3, "category": "Admissions & Eligibility", "question": "What is the eligibility criteria for B.E. admission at TJIT?", "answer": "Candidates must have passed 10+2 / 2nd PUC or equivalent with Physics and Mathematics as compulsory subjects, along with Chemistry/Biotech/Biology, scoring at least 45% aggregate marks (40% for SC/ST candidates)."},
+  {"id": 4, "category": "Admissions & Eligibility", "question": "Which entrance exams are accepted for B.E. admission at TJIT?", "answer": "TJIT accepts KCET, COMEDK, and JEE Main entrance exam scores for admission to undergraduate engineering programs."},
+  {"id": 5, "category": "Admissions & Eligibility", "question": "What entrance exams are required for MCA admission at TJIT?", "answer": "Admission to the MCA program is based on Karnataka PGCET or KMAT exam scores."},
+  {"id": 6, "category": "Admissions & Eligibility", "question": "Does TJIT offer management quota seats?", "answer": "Yes, direct admissions under the management quota are available based on merit and 10+2 performance."},
+  {"id": 7, "category": "Admissions & Eligibility", "question": "What is the eligibility for Ph.D. programs at TJIT?", "answer": "Candidates must hold a Master's degree in the relevant discipline with a minimum of 55% marks and clear the VTU ETR / interview process."},
+  {"id": 8, "category": "Admissions & Eligibility", "question": "Can lateral entry students join B.E. at TJIT?", "answer": "Yes, diploma holders in engineering are eligible for lateral entry directly into the 2nd year (3rd semester) of B.E. through Karnataka DCET or management routes."},
+  {"id": 9, "category": "Admissions & Eligibility", "question": "How can I apply for admission at TJIT?", "answer": "You can apply online through the official T. John Group portal (tjohncollege.com) or visit the admissions campus on Bannerghatta Road."},
+  {"id": 10, "category": "Admissions & Eligibility", "question": "Are international or NRI students eligible for admission at TJIT?", "answer": "Yes, TJIT welcomes international and NRI students, provided they satisfy AICTE and VTU eligibility criteria."},
+
+  {"id": 11, "category": "Courses Offered", "question": "What B.E. specializations are available at TJIT?", "answer": "TJIT offers B.E. in Computer Science & Engineering, AI & Machine Learning, Data Science, Information Science & Engineering, Electronics & Communication, Mechanical Engineering, and IoT & Cyber Security."},
+  {"id": 12, "category": "Courses Offered", "question": "Does TJIT offer B.E. in Artificial Intelligence and Machine Learning (AI & ML)?", "answer": "Yes, TJIT offers a 4-year undergraduate B.E. program in AI & Machine Learning."},
+  {"id": 13, "category": "Courses Offered", "question": "Is Data Science available as a B.E. branch at TJIT?", "answer": "Yes, TJIT offers a specialized B.E. program in Data Science."},
+  {"id": 14, "category": "Courses Offered", "question": "What postgraduate engineering courses does TJIT offer?", "answer": "TJIT offers Master of Computer Applications (MCA) and Ph.D. research programs."},
+  {"id": 15, "category": "Courses Offered", "question": "What Ph.D. research domains are recognized at TJIT?", "answer": "Research centers recognized by VTU at TJIT include Computer Science & Engineering, Electronics & Communication, Mechanical Engineering, Mathematics, and Chemistry."},
+  {"id": 16, "category": "Courses Offered", "question": "Does TJIT offer B.E. in IoT and Cyber Security?", "answer": "Yes, TJIT offers B.E. in Computer Science with IoT & Cyber Security including Blockchain Technology."},
+  {"id": 17, "category": "Courses Offered", "question": "What is the duration of the MCA program at TJIT?", "answer": "The MCA program at TJIT is a 2-year full-time postgraduate course affiliated with VTU."},
+  {"id": 18, "category": "Courses Offered", "question": "Are all engineering courses at TJIT full-time?", "answer": "Yes, all B.E. and MCA programs offered at TJIT are full-time regular courses."},
+  {"id": 19, "category": "Courses Offered", "question": "Is Mechanical Engineering offered at TJIT?", "answer": "Yes, TJIT offers a 4-year B.E. degree in Mechanical Engineering."},
+  {"id": 20, "category": "Courses Offered", "question": "Which engineering branch at TJIT has the highest intake?", "answer": "Computer Science & Engineering (CSE) and allied AI/Data Science branches have the highest seat intake at TJIT."},
+
+  {"id": 21, "category": "Fees & Scholarships", "question": "What is the total fee range for B.E. programs at TJIT?", "answer": "The total fee for 4-year B.E. programs generally ranges between INR 4.53 Lakhs and INR 8.6 Lakhs depending on the specialization."},
+  {"id": 22, "category": "Fees & Scholarships", "question": "What is the total fee for B.E. in Computer Science & Engineering at TJIT?", "answer": "The total course fee for B.E. CSE is approximately INR 8.6 Lakhs for 4 years."},
+  {"id": 23, "category": "Fees & Scholarships", "question": "What is the total fee for MCA at TJIT?", "answer": "The total tuition fee for the 2-year MCA course at TJIT is approximately INR 3.3 Lakhs."},
+  {"id": 24, "category": "Fees & Scholarships", "question": "What is the annual Ph.D. tuition fee at TJIT?", "answer": "The tuition fee for Ph.D. programs across various research departments is approximately INR 90,000 for the full cycle."},
+  {"id": 25, "category": "Fees & Scholarships", "question": "Are scholarships available for students at TJIT?", "answer": "Yes, eligible students can apply for Karnataka State Government scholarships (SSP/NSP) like SC/ST, OBC, and e-Pass schemes."},
+  {"id": 26, "category": "Fees & Scholarships", "question": "Do NRI or international students pay extra processing fees?", "answer": "Yes, international/NRI applicants may have an additional registration and administrative processing fee during admission."},
+  {"id": 27, "category": "Fees & Scholarships", "question": "Can college fees be paid in installments at TJIT?", "answer": "Installment options are evaluated on a case-by-case basis by the administrative and finance department during admission."},
+  {"id": 28, "category": "Fees & Scholarships", "question": "Is the fee structure different for KCET vs COMEDK candidates?", "answer": "Yes, government quota seats (KCET) have lower government-fixed fees compared to COMEDK and management quota seats."},
+  {"id": 29, "category": "Fees & Scholarships", "question": "Does TJIT accept fee payments online?", "answer": "Yes, tuition and hostel fees can be paid online via net banking, UPI, or demand draft payable to T. John Group."},
+  {"id": 30, "category": "Fees & Scholarships", "question": "Are examination fees included in the annual tuition fee?", "answer": "No, VTU semester examination fees are charged separately as per university notifications every semester."},
+
+  {"id": 31, "category": "Placements & Internships", "question": "Does TJIT have an active Placement Cell?", "answer": "Yes, the Training & Placement Cell at TJIT conducts pre-placement training, soft-skills development, and campus recruitment drives."},
+  {"id": 32, "category": "Placements & Internships", "question": "What is the average package offered to TJIT engineering graduates?", "answer": "The average package ranges between 3.5 LPA to 5.5 LPA, with higher packages for specialized CSE, AI, and Data Science candidates."},
+  {"id": 33, "category": "Placements & Internships", "question": "Who are the top recruiters visiting TJIT?", "answer": "Top recruiters include Infosys, TCS, Wipro, Capgemini, Cognizant, Accenture, Mindtree, and Tech Mahindra."},
+  {"id": 34, "category": "Placements & Internships", "question": "Does TJIT provide placement support for MCA students?", "answer": "Yes, MCA students participate in campus drives alongside B.E. CSE/ISE students for software development roles."},
+  {"id": 35, "category": "Placements & Internships", "question": "When do campus placement drives start for engineering students?", "answer": "Placement drives usually begin at the end of the 6th semester or the beginning of the 7th semester."},
+  {"id": 36, "category": "Placements & Internships", "question": "Does the placement cell provide internship support?", "answer": "Yes, TJIT assists students in securing mandatory VTU internships during pre-final and final semesters."},
+  {"id": 37, "category": "Placements & Internships", "question": "What aptitude and soft skills training is provided at TJIT?", "answer": "TJIT organizes technical training, mock interviews, coding bootcamps, and communication workshops prior to campus drives."},
+  {"id": 38, "category": "Placements & Internships", "question": "Can students apply for off-campus placement drives?", "answer": "Yes, the placement cell shares off-campus opportunities and pooled campus drive information with eligible final-year students."},
+  {"id": 39, "category": "Placements & Internships", "question": "What is the highest package reported at TJIT?", "answer": "The highest package varies annually, reaching up to 10–12 LPA in recent campus drives for core software roles."},
+  {"id": 40, "category": "Placements & Internships", "question": "Are internships mandatory under the VTU curriculum at TJIT?", "answer": "Yes, carrying out a mandatory industry internship is a required academic component for completing B.E. under VTU."},
+
+  {"id": 41, "category": "Campus Infrastructure & Labs", "question": "How large is the T. John Group campus?", "answer": "The green campus spreads over 20 acres on Bannerghatta Road in Bangalore."},
+  {"id": 42, "category": "Campus Infrastructure & Labs", "question": "Does TJIT have well-equipped computer labs?", "answer": "Yes, TJIT features modern computer laboratories equipped with high-speed internet, licensed software, and development tools."},
+  {"id": 43, "category": "Campus Infrastructure & Labs", "question": "Is Wi-Fi available across the TJIT campus?", "answer": "Yes, campus-wide Wi-Fi connectivity is provided for students and faculty members."},
+  {"id": 44, "category": "Campus Infrastructure & Labs", "question": "What library facilities are available at TJIT?", "answer": "The central library houses thousands of textbooks, reference works, national/international journals, e-books, and digital search portals."},
+  {"id": 45, "category": "Campus Infrastructure & Labs", "question": "Are there sports facilities on campus?", "answer": "Yes, TJIT offers facilities for cricket, football, basketball, volleyball, badminton, and indoor games like table tennis and chess."},
+  {"id": 46, "category": "Campus Infrastructure & Labs", "question": "Does TJIT have an auditorium or seminar halls?", "answer": "Yes, TJIT has well-furnished seminar halls and a central auditorium equipped with audio-visual equipment for conferences and events."},
+  {"id": 47, "category": "Campus Infrastructure & Labs", "question": "Are there specialized IoT and AI labs at TJIT?", "answer": "Yes, specialized department laboratories exist for AI, Machine Learning, Data Science, and Microcontroller hardware."},
+  {"id": 48, "category": "Campus Infrastructure & Labs", "question": "Is there a gym facility on campus?", "answer": "Yes, a gymnasium is accessible to students and residential hostelers."},
+  {"id": 49, "category": "Campus Infrastructure & Labs", "question": "What dining facilities exist on campus?", "answer": "The campus has a multi-cuisine cafeteria providing hygienic meals, snacks, beverages, and South/North Indian food options."},
+  {"id": 50, "category": "Campus Infrastructure & Labs", "question": "Are there medical/first-aid facilities on campus?", "answer": "Yes, basic first-aid facilities, sick rooms, and emergency medical arrangements with nearby hospitals are available."},
+
+  {"id": 51, "category": "Hostel & Accommodation", "question": "Does TJIT offer separate hostels for boys and girls?", "answer": "Yes, separate residential hostels with keycard security are provided for male and female students."},
+  {"id": 52, "category": "Fees & Accommodation", "question": "What is the annual hostel fee for boys at TJIT?", "answer": "Hostel fees for boys range between INR 92,000 and INR 99,000 per year, inclusive of food and accommodation."},
+  {"id": 53, "category": "Fees & Accommodation", "question": "What is the annual hostel fee for girls at TJIT?", "answer": "Hostel fees for girls range between INR 90,000 and INR 1,01,000 per year, depending on room occupancy options."},
+  {"id": 54, "category": "Hostel & Accommodation", "question": "What amenities are provided in TJIT hostels?", "answer": "Amenities include 24/7 security, power backup, study rooms, Wi-Fi, laundry facilities, hot water, and mess food."},
+  {"id": 55, "category": "Hostel & Accommodation", "question": "Is mess facility included in the hostel fee at TJIT?", "answer": "Yes, annual hostel charges cover both room accommodation and daily mess food."},
+  {"id": 56, "category": "Hostel & Accommodation", "question": "Can students opt for off-campus PG accommodation near Bannerghatta Road?", "answer": "Yes, many private PGs and rented apartments are available in close proximity to Gottigere and Bannerghatta Road."},
+  {"id": 57, "category": "Hostel & Accommodation", "question": "Are hostel warden services available 24/7?", "answer": "Yes, resident wardens supervise each hostel block around the clock to assist students."},
+  {"id": 58, "category": "Hostel & Accommodation", "question": "What are the night entry rules for hostellers at TJIT?", "answer": "Hostel residents must adhere to strict curfew times in the evening unless prior leave permissions are authorized by wardens."},
+  {"id": 59, "category": "Hostel & Accommodation", "question": "Do hostel rooms come furnished?", "answer": "Yes, rooms are equipped with standard furniture, including individual beds, study tables, chairs, and wardrobes."},
+  {"id": 60, "category": "Hostel & Accommodation", "question": "Are parents allowed to stay in the college hostel?", "answer": "Parents are not permitted to stay in student dorms, but nearby hotels/lodges are accessible on Bannerghatta Road."},
+
+  {"id": 61, "category": "Academics & VTU Examinations", "question": "How many semesters are there in B.E. at TJIT?", "answer": "B.E. is an 8-semester (4-year) degree program under Visvesvaraya Technological University (VTU)."},
+  {"id": 62, "category": "Academics & VTU Examinations", "question": "What grading system does VTU use for TJIT students?", "answer": "VTU uses the Choice Based Credit System (CBCS) evaluating performance via SGPA and CGPA scores."},
+  {"id": 63, "category": "Academics & VTU Examinations", "question": "What is the minimum attendance requirement to write VTU exams?", "answer": "Students must maintain at least 85% attendance in each subject to be eligible for VTU semester examinations."},
+  {"id": 64, "category": "Academics & VTU Examinations", "question": "How are internal assessment marks calculated at TJIT?", "answer": "Internal assessments are conducted through three continuous internal evaluation (CIE) tests, assignments, and practicals each semester."},
+  {"id": 65, "category": "Academics & VTU Examinations", "question": "What should a student do if they fail a VTU semester exam?", "answer": "Students can re-appear for backlogs during subsequent VTU supplementary or regular semester examinations."},
+  {"id": 66, "category": "Academics & VTU Examinations", "question": "How can students check their VTU exam results?", "answer": "Semester exam results are published directly on the official VTU results portal (results.vtu.ac.in)."},
+  {"id": 67, "category": "Academics & VTU Examinations", "question": "Where can students get study materials and previous VTU question papers?", "answer": "Students can access digital repositories, library resources, and departmental notes through the library portal."},
+  {"id": 68, "category": "Academics & VTU Examinations", "question": "Are academic progress reports shared with parents?", "answer": "Yes, test marks, internal performance, and attendance records are periodically communicated to parents by class mentors."},
+  {"id": 69, "category": "Academics & VTU Examinations", "question": "Does TJIT have a proctorial / mentoring system?", "answer": "Yes, each student is assigned a faculty mentor (proctor) who guides them academically and personally throughout the course."},
+  {"id": 70, "category": "Academics & VTU Examinations", "question": "What happens if a student has an attendance shortage due to illness?", "answer": "Medical cases must be reported immediately with valid medical certificates to request condonation per VTU norms."},
+
+  {"id": 71, "category": "Campus Life & Student Clubs", "question": "What cultural events take place at TJIT?", "answer": "TJIT hosts annual cultural fests, ethnic day celebrations, freshers' receptions, and inter-collegiate competitions."},
+  {"id": 72, "category": "Campus Life & Student Clubs", "question": "Does TJIT have technical student clubs?", "answer": "Yes, departments maintain technical clubs organizing hackathons, coding challenges, robotics workshops, and seminars."},
+  {"id": 73, "category": "Campus Life & Student Clubs", "question": "Are sports tournaments held at TJIT?", "answer": "Yes, the college conducts annual sports meets and fields varsity teams for VTU inter-collegiate tournaments."},
+  {"id": 74, "category": "Campus Life & Student Clubs", "question": "Does TJIT have an NSS or Social Service unit?", "answer": "Yes, the NSS unit at TJIT conducts blood donation camps, environmental drives, and community outreach activities."},
+  {"id": 75, "category": "Campus Life & Student Clubs", "question": "Can students participate in external college fests?", "answer": "Yes, students are encouraged to present papers and compete in sports/cultural events at other engineering institutions."},
+  {"id": 76, "category": "Campus Life & Student Clubs", "question": "Is there a student grievance cell at TJIT?", "answer": "Yes, a Student University Grievance and Internal Complaints Committee operates to address student concerns promptly."},
+  {"id": 77, "category": "Campus Life & Student Clubs", "question": "How are freshers welcomed at TJIT?", "answer": "Senior batches and departments organize official Freshers' Day celebrations during the first semester."},
+  {"id": 78, "category": "Campus Life & Student Clubs", "question": "Are industrial visits organized for TJIT engineering students?", "answer": "Yes, departments schedule regular industrial visits to relevant IT companies and manufacturing plants around Bangalore."},
+  {"id": 79, "category": "Campus Life & Student Clubs", "question": "What is the dress code policy at TJIT?", "answer": "Students are expected to dress modestly and professionally; formal attire is mandatory during lab sessions and placement events."},
+  {"id": 80, "category": "Campus Life & Student Clubs", "question": "Is ragging prohibited at TJIT?", "answer": "TJIT strictly enforces zero tolerance toward ragging, overseen by a dedicated Anti-Ragging Committee on campus."},
+
+  {"id": 81, "category": "Transport & Location Services", "question": "Does TJIT provide college bus transportation?", "answer": "Yes, the T. John Group fleet of buses connects various residential routes and major areas across Bangalore to campus."},
+  {"id": 82, "category": "Transport & Location Services", "question": "Is public transport easily accessible near TJIT?", "answer": "Yes, BMTC city buses run frequently along Bannerghatta Main Road, stopping directly near the college campus in Gottigere."},
+  {"id": 83, "category": "Transport & Location Services", "question": "Which is the nearest Metro station to TJIT?", "answer": "Namma Metro stations along Green Line and upcoming Pink Line extensions on Bannerghatta Road provide convenient connectivity."},
+  {"id": 84, "category": "Transport & Location Services", "question": "How far is Majestic (KSR Bengaluru Station) from TJIT?", "answer": "TJIT is located approximately 20 to 22 km from Majestic Railway Station / Kempegowda Bus Station."},
+  {"id": 85, "category": "Transport & Location Services", "question": "How far is TJIT from Kempegowda International Airport?", "answer": "TJIT is approximately 48 to 50 km from Bengaluru International Airport, connected via the Outer Ring Road and airport shuttle buses."},
+  {"id": 86, "category": "Transport & Location Services", "question": "Is student parking available inside the campus?", "answer": "Yes, dedicated parking spaces are provided on campus for two-wheeler and four-wheeler vehicles."},
+  {"id": 87, "category": "Transport & Location Services", "question": "How do I apply for a college bus pass?", "answer": "Students can apply for route bus passes at the transportation desk in the central administration office."},
+  {"id": 88, "category": "Transport & Location Services", "question": "Are BMTC student bus pass facilities available?", "answer": "Yes, students can apply for concessional BMTC student pass verification through the administrative office."},
+  {"id": 89, "category": "Transport & Location Services", "question": "What landmark is TJIT located near on Bannerghatta Road?", "answer": "TJIT is located near Gottigere, close to Royal Meenakshi Mall and Bannerghatta National Park road."},
+  {"id": 90, "category": "Transport & Location Services", "question": "Are private cabs like Ola and Uber accessible at campus gates?", "answer": "Yes, cab services and auto-rickshaws are readily available right at the campus entrance on Bannerghatta Road."},
+
+  {"id": 91, "category": "Administration & General Inquiries", "question": "What are the administrative office working hours at TJIT?", "answer": "The administrative office operates Monday through Saturday, from 9:00 AM to 5:00 PM (excluding official holidays)."},
+  {"id": 92, "category": "Administration & General Inquiries", "question": "What is the official email ID for general inquiries at TJIT?", "answer": "General inquiries can be sent to info@tjohngroup.com."},
+  {"id": 93, "category": "Administration & General Inquiries", "question": "Who founded the T. John Group of Institutions?", "answer": "The institution was established under the leadership of Dr. Thomas P. John in 1993 and has grown into a major education campus."},
+  {"id": 94, "category": "Administration & General Inquiries", "question": "How do I request an official transcript or bonafide certificate from TJIT?", "answer": "Submit a formal application form at the administrative counters along with necessary fee receipts."},
+  {"id": 95, "category": "Administration & General Inquiries", "question": "Where do students log in for institutional accounts?", "answer": "Students log in via the student portal on the official website for university updates and email accounts."},
+  {"id": 96, "category": "Administration & General Inquiries", "question": "Are parents allowed to meet department heads?", "answer": "Yes, parents can meet Heads of Departments (HODs) or faculty proctors on working days to discuss academic progress."},
+  {"id": 97, "category": "Administration & General Inquiries", "question": "Does TJIT have an active Alumni Association?", "answer": "Yes, the institution maintains an alumni network that connects past graduates with current students for mentoring."},
+  {"id": 98, "category": "Administration & General Inquiries", "question": "Where can I find academic calendars for the current semester?", "answer": "Academic calendars following VTU notifications are published on departmental notice boards and the college website."},
+  {"id": 99, "category": "Administration & General Inquiries", "question": "What should I do if I lose my Student ID card?", "answer": "Report the loss to administrative services and apply for a duplicate ID card at the administrative desk."},
+  {"id": 100, "category": "Administration & General Inquiries", "question": "Is TJIT accredited by NAAC?", "answer": "T. John Group of Institutions holds accreditation from NAAC and approval from AICTE for its engineering streams."},
+  {
+    "id": 101,
+    "category": "Academic & Departmental",
+    "question": "Who is the Head of Department for Computer Science & Engineering (CSE) at TJIT?",
+    "answer": "Dr. Suma R. leads the CSE department."
+  },
+  {
+    "id": 102,
+    "category": "Academic & Departmental",
+    "question": "Who heads the Department of Electronics & Communication Engineering (ECE)?",
+    "answer": "Dr. Drakshayini M. N., who is also the Principal of TJIT."
+  },
+  {
+    "id": 103,
+    "category": "Academic & Departmental",
+    "question": "Who is the Head of Department for AI & Machine Learning (AI & ML)?",
+    "answer": "Dr. Asha S. Manek heads the AI & ML department."
+  },
+  {
+    "id": 104,
+    "category": "Academic & Departmental",
+    "question": "Who is the Head of Department for Mechanical Engineering?",
+    "answer": "Dr. Sujith Kumar S. G."
+  },
+  {
+    "id": 105,
+    "category": "Academic & Departmental",
+    "question": "Who leads the Master of Computer Applications (MCA) department?",
+    "answer": "Dr. Kavi Priya leads the MCA department."
+  },
+  {
+    "id": 106,
+    "category": "Academic & Departmental",
+    "question": "Which university is TJIT affiliated with?",
+    "answer": "TJIT is affiliated with Visvesvaraya Technological University (VTU), Belagavi, Karnataka."
+  },
+  {
+    "id": 107,
+    "category": "Academic & Departmental",
+    "question": "Is TJIT approved by AICTE?",
+    "answer": "Yes, all engineering and postgraduate programs at TJIT are approved by AICTE, New Delhi."
+  },
+  {
+    "id": 108,
+    "category": "Academic & Departmental",
+    "question": "Does TJIT follow VTU’s Choice-Based Credit System (CBCS)?",
+    "answer": "Yes, all B.E. and MCA programs strictly follow VTU’s CBCS curriculum and evaluation guidelines."
+  },
+  {
+    "id": 109,
+    "category": "Academic & Departmental",
+    "question": "What is the standard duration of the B.E. program at TJIT?",
+    "answer": "The B.E. degree is a 4-year (8 semesters) full-time undergraduate program."
+  },
+  {
+    "id": 110,
+    "category": "Academic & Departmental",
+    "question": "What is the duration of Lateral Entry B.E. for diploma holders?",
+    "answer": "Lateral Entry B.E. is a 3-year (6 semesters) program starting directly from the 3rd semester."
+  },
+  {
+    "id": 111,
+    "category": "Academic & Departmental",
+    "question": "What is the duration of the MCA program at TJIT?",
+    "answer": "The MCA program is a 2-year (4 semesters) postgraduate degree."
+  },
+  {
+    "id": 112,
+    "category": "Academic & Departmental",
+    "question": "Are Ph.D. programs offered at TJIT?",
+    "answer": "Yes, research centers are recognized by VTU for Ph.D. programs in CSE, ECE, Mechanical Engineering, Chemistry, Physics, and Mathematics."
+  },
+  {
+    "id": 113,
+    "category": "Academic & Departmental",
+    "question": "What specialization courses are available under CSE?",
+    "answer": "Specializations include Artificial Intelligence & Machine Learning (AI & ML), Data Science, and IoT & Cyber Security including Blockchain Technology."
+  },
+  {
+    "id": 114,
+    "category": "Academic & Departmental",
+    "question": "What is the minimum passing score in internal assessments at TJIT?",
+    "answer": "As per VTU regulations, students must secure a minimum of 50% in Continuous Internal Evaluation (CIE) to qualify for semester exams."
+  },
+  {
+    "id": 115,
+    "category": "Academic & Departmental",
+    "question": "What is the minimum attendance mandatory to sit for VTU examinations?",
+    "answer": "A minimum of 85% attendance per subject is mandatory. VTU permits condonation up to 75% only on valid medical grounds."
+  },
+  {
+    "id": 116,
+    "category": "Academic & Departmental",
+    "question": "Are value-added skill courses provided by departments?",
+    "answer": "Yes, departments conduct certifications in Python, Cloud Computing, VLSI Design, AutoCAD, and Web Development."
+  },
+  {
+    "id": 117,
+    "category": "Academic & Departmental",
+    "question": "What is the student-to-faculty ratio at TJIT?",
+    "answer": "TJIT maintains a student-to-faculty ratio of approximately 15:1 across its engineering branches."
+  },
+  {
+    "id": 118,
+    "category": "Academic & Departmental",
+    "question": "Does the ECE department have specialized hardware labs?",
+    "answer": "Yes, labs include Digital Signal Processing (DSP), Microcontrollers, VLSI, Analog Communication, and Embedded Systems."
+  },
+  {
+    "id": 119,
+    "category": "Academic & Departmental",
+    "question": "What project labs are available for CSE and AI & ML students?",
+    "answer": "High-performance computing labs equipped with high-speed internet and AI developmental frameworks (PyTorch, TensorFlow)."
+  },
+  {
+    "id": 120,
+    "category": "Academic & Departmental",
+    "question": "Are industrial visits mandatory for engineering students?",
+    "answer": "Yes, industrial visits are arranged starting from the 4th semester to provide industry exposure."
+  },
+  {
+    "id": 121,
+    "category": "Academic & Departmental",
+    "question": "Can students undertake external internships in their final year?",
+    "answer": "Yes, students can complete 4- to 8-week external industry internships as mandated by VTU."
+  },
+  {
+    "id": 122,
+    "category": "Academic & Departmental",
+    "question": "Does TJIT have an active IEEE student branch?",
+    "answer": "Yes, the campus hosts student chapters of IEEE and IETE for technical paper presentations and workshops."
+  },
+  {
+    "id": 123,
+    "category": "Academic & Departmental",
+    "question": "What is the academic background required for the Ph.D. program?",
+    "answer": "A Master's degree (M.Tech/M.E./M.Sc) in the relevant discipline with at least 55% aggregate (50% for SC/ST)."
+  },
+  {
+    "id": 124,
+    "category": "Academic & Departmental",
+    "question": "How are VTU practical examinations conducted?",
+    "answer": "Practical exams are evaluated jointly by an internal examiner and an external examiner appointed by VTU."
+  },
+  {
+    "id": 125,
+    "category": "Academic & Departmental",
+    "question": "Does TJIT offer Remedial Classes for weak students?",
+    "answer": "Yes, departments conduct special remedial and tutorial classes after regular hours for students needing additional assistance."
+  },
+  {
+    "id": 126,
+    "category": "Placements & Internships",
+    "question": "Does TJIT have a dedicated Placement and Training Cell?",
+    "answer": "Yes, the Training & Placement Cell provides placement training, soft-skill workshops, and interview scheduling."
+  },
+  {
+    "id": 127,
+    "category": "Placements & Internships",
+    "question": "Who is the contact authority for placement inquiries at TJIT?",
+    "answer": "The Training & Placement Officer (TPO) via email at placementcell@tjohngroup.com."
+  },
+  {
+    "id": 128,
+    "category": "Placements & Internships",
+    "question": "What is the average placement package offered at TJIT?",
+    "answer": "The average package ranges between ₹3.5 LPA and ₹4.1 LPA."
+  },
+  {
+    "id": 129,
+    "category": "Placements & Internships",
+    "question": "What is the highest package recorded at TJIT in recent placement drives?",
+    "answer": "Packages have reached up to ₹10.5 LPA – ₹12 LPA depending on the recruiting company and student skill profile."
+  },
+  {
+    "id": 130,
+    "category": "Placements & Internships",
+    "question": "Which major IT companies visit TJIT for campus placements?",
+    "answer": "Recruiters include Infosys, TCS, Wipro, Cognizant, Capgemini, HCL, and Tech Mahindra."
+  },
+  {
+    "id": 131,
+    "category": "Placements & Internships",
+    "question": "Do core engineering companies recruit from Civil and Mechanical branches?",
+    "answer": "Yes, core companies, infrastructure firms, and CAD design consultancies recruit qualified graduates."
+  },
+  {
+    "id": 132,
+    "category": "Placements & Internships",
+    "question": "When does campus placement training begin for B.E. students?",
+    "answer": "Aptitude, communication, and technical interview training start in the 5th semester."
+  },
+  {
+    "id": 133,
+    "category": "Placements & Internships",
+    "question": "What percentage of eligible students secure job offers?",
+    "answer": "Approximately 60% to 80% of registered eligible candidates get placed annually through campus and pool drives."
+  },
+  {
+    "id": 134,
+    "category": "Placements & Internships",
+    "question": "Does TJIT organize campus recruitment drives for MCA students?",
+    "answer": "Yes, MCA students participate in software developer and system analyst placement drives along with CSE/ISE streams."
+  },
+  {
+    "id": 135,
+    "category": "Placements & Internships",
+    "question": "Are mock interviews conducted prior to placement drives?",
+    "answer": "Yes, HR experts and alumni hold mock technical and personal interviews to build candidate confidence."
+  },
+  {
+    "id": 136,
+    "category": "Placements & Internships",
+    "question": "Can students receive multiple placement offers?",
+    "answer": "TJIT follows a 'One Student, One Job' policy initially; secondary offers are permitted only under specific high-package dream options."
+  },
+  {
+    "id": 137,
+    "category": "Placements & Internships",
+    "question": "Are internship opportunities provided through the placement cell?",
+    "answer": "Yes, the placement cell facilitates paid and stipend-based internships for 7th and 8th-semester students."
+  },
+  {
+    "id": 138,
+    "category": "Placements & Internships",
+    "question": "Do recruiters conduct online assessment tests on campus?",
+    "answer": "Yes, campus labs are equipped for large-scale online coding tests and aptitude assessments."
+  },
+  {
+    "id": 139,
+    "category": "Placements & Internships",
+    "question": "Is pre-placement training compulsory for all final-year students?",
+    "answer": "Yes, attendance in placement training modules is mandatory to participate in campus recruitment drives."
+  },
+  {
+    "id": 140,
+    "category": "Placements & Internships",
+    "question": "Does TJIT assist students seeking off-campus job opportunities?",
+    "answer": "Yes, reference letters and drive alerts are shared with eligible alumni and unplaced students."
+  },
+  {
+    "id": 141,
+    "category": "Placements & Internships",
+    "question": "Are soft-skills and personality development modules part of the training?",
+    "answer": "Yes, external professional agencies are engaged to teach communication, body language, and resume writing."
+  },
+  {
+    "id": 142,
+    "category": "Placements & Internships",
+    "question": "What coding languages are emphasized in placement preparation?",
+    "answer": "Python, Java, C++, SQL, and Data Structures & Algorithms (DSA)."
+  },
+  {
+    "id": 143,
+    "category": "Placements & Internships",
+    "question": "Are startup companies allowed to hire from TJIT?",
+    "answer": "Yes, verified product-based and service-based tech startups recruit for specialized roles."
+  },
+  {
+    "id": 144,
+    "category": "Placements & Internships",
+    "question": "Does TJIT host pool campus drives for other VTU colleges?",
+    "answer": "Yes, TJIT periodically acts as a nodal host center for VTU pool campus drives."
+  },
+  {
+    "id": 145,
+    "category": "Placements & Internships",
+    "question": "What is the eligibility criterion to sit for tier-1 company placements?",
+    "answer": "Generally, a minimum CGPA of 6.5 or above with no active backlogs."
+  },
+  {
+    "id": 146,
+    "category": "Placements & Internships",
+    "question": "Are domain-specific technical workshops held for ECE students?",
+    "answer": "Yes, workshops cover Embedded C, IoT protocols, VLSI testing, and MATLAB simulation."
+  },
+  {
+    "id": 147,
+    "category": "Placements & Internships",
+    "question": "Does the college support higher education aspirants (GATE/GRE)?",
+    "answer": "Yes, faculty provide guidance and reference letters for students pursuing M.Tech or MS abroad."
+  },
+  {
+    "id": 148,
+    "category": "Placements & Internships",
+    "question": "How are final-year major project works linked to placements?",
+    "answer": "Students are encouraged to work on industry-sponsored problems that can transition into full-time roles."
+  },
+  {
+    "id": 149,
+    "category": "Placements & Internships",
+    "question": "Does TJIT have an Active Entrepreneurship Development Cell (EDC)?",
+    "answer": "Yes, the EDC mentors students who aim to build tech startups or apply for government innovation grants."
+  },
+  {
+    "id": 150,
+    "category": "Placements & Internships",
+    "question": "Are alumni involved in campus placement guidance?",
+    "answer": "Yes, alumni interactions and technical talks are regularly organized by the placement department."
+  },
+  {
+    "id": 151,
+    "category": "Admissions & Fees",
+    "question": "What entrance exam ranks are accepted for Government Quota B.E. admission?",
+    "answer": "KCET (Karnataka Common Entrance Test) ranks are required for government quota seats."
+  },
+  {
+    "id": 152,
+    "category": "Admissions & Fees",
+    "question": "What entrance exam ranks are accepted for Private/All India Quota seats?",
+    "answer": "COMEDK UGET entrance examination ranks are accepted."
+  },
+  {
+    "id": 153,
+    "category": "Admissions & Fees",
+    "question": "What is the eligibility score for General Category candidates in 10+2?",
+    "answer": "Minimum 45% aggregate marks in Physics, Mathematics, and one optional subject (Chemistry/Biology/CS/Electronics)."
+  },
+  {
+    "id": 154,
+    "category": "Admissions & Fees",
+    "question": "What is the eligibility relaxation for SC/ST/OBC Karnataka candidates?",
+    "answer": "A minimum aggregate of 40% in qualifying 10+2 examinations."
+  },
+  {
+    "id": 155,
+    "category": "Admissions & Fees",
+    "question": "Can non-Karnataka students apply through COMEDK?",
+    "answer": "Yes, non-Karnataka candidates can apply through COMEDK rank counseling or Management Quota."
+  },
+  {
+    "id": 156,
+    "category": "Admissions & Fees",
+    "question": "What is the KCET code for T. John Institute of Technology?",
+    "answer": "The KCET college code for TJIT is E117."
+  },
+  {
+    "id": 157,
+    "category": "Admissions & Fees",
+    "question": "What is the COMEDK code for TJIT?",
+    "answer": "The COMEDK college code for TJIT is E133."
+  },
+  {
+    "id": 158,
+    "category": "Admissions & Fees",
+    "question": "What is the approximate annual fee for B.E. via KCET allotment?",
+    "answer": "Approximately ₹75,000 to ₹95,000 per year (excluding university and hostel fees) depending on government fee notifications."
+  },
+  {
+    "id": 159,
+    "category": "Admissions & Fees",
+    "question": "What is the annual fee for B.E. via COMEDK allotment?",
+    "answer": "Approximately ₹2,00,000 per year plus college miscellaneous fees."
+  },
+  {
+    "id": 160,
+    "category": "Admissions & Fees",
+    "question": "Is Management Quota admission available for all B.E. branches?",
+    "answer": "Yes, direct admissions under Management Quota are available based on merit and seat availability."
+  },
+  {
+    "id": 161,
+    "category": "Admissions & Fees",
+    "question": "What entrance exams qualify a candidate for MCA admission at TJIT?",
+    "answer": "KMAT or Karnataka PGCET scores are mandatory for MCA admission."
+  },
+  {
+    "id": 162,
+    "category": "Admissions & Fees",
+    "question": "Can NRI/Foreign students apply for admission at TJIT?",
+    "answer": "Yes, dedicated seats are available for NRI and foreign nationals under the NRI quota."
+  },
+  {
+    "id": 163,
+    "category": "Admissions & Fees",
+    "question": "What documents are required during final admission submission?",
+    "answer": "10th and 12th Marks Cards (Original), Transfer Certificate (TC) & Migration Certificate, Conduct Certificate, Rank Card (KCET/COMEDK/PGCET), Caste/Income Certificate (if applicable), Passport-size Photographs & Aadhaar Card."
+  },
+  {
+    "id": 164,
+    "category": "Admissions & Fees",
+    "question": "Is the tuition fee payable in semester installments?",
+    "answer": "Tuition fees are charged on an annual basis, but installment options can be requested through management approval."
+  },
+  {
+    "id": 165,
+    "category": "Admissions & Fees",
+    "question": "Does TJIT assist in processing bank Education Loans?",
+    "answer": "Yes, the administrative office issues study cost estimates and bonafide certificates required by banks."
+  },
+  {
+    "id": 166,
+    "category": "Admissions & Fees",
+    "question": "Are Karnataka State Government Scholarships available at TJIT?",
+    "answer": "Yes, eligible students can apply through the State Scholarship Portal (SSP), e-Pass, and Social Welfare Department schemes."
+  },
+  {
+    "id": 167,
+    "category": "Admissions & Fees",
+    "question": "Does TJIT charge separate university registration fees?",
+    "answer": "Yes, VTU registration, examination, and e-learning fees are paid separately per semester as per university circulars."
+  },
+  {
+    "id": 168,
+    "category": "Admissions & Fees",
+    "question": "Is there a penalty for late payment of tuition fees?",
+    "answer": "Yes, late fees may apply if payments exceed published deadline dates without formal approval."
+  },
+  {
+    "id": 169,
+    "category": "Admissions & Fees",
+    "question": "What is the fee refund policy if an admission is canceled?",
+    "answer": "Refunds follow AICTE/VTU withdrawal guidelines within the stipulated fee refund window."
+  },
+  {
+    "id": 170,
+    "category": "Admissions & Fees",
+    "question": "Can diploma holders apply directly to the 2nd year of B.E.?",
+    "answer": "Yes, via DCET (Diploma CET) rank allotment or lateral entry management quota."
+  },
+  {
+    "id": 171,
+    "category": "Admissions & Fees",
+    "question": "What eligibility criteria apply to lateral entry diploma candidates?",
+    "answer": "Must hold a 3-year Diploma in Engineering with at least 45% aggregate (40% for SC/ST)."
+  },
+  {
+    "id": 172,
+    "category": "Admissions & Fees",
+    "question": "Is dynamic online fee payment supported on the official college website?",
+    "answer": "Yes, students can pay online via the payment portal on the official website."
+  },
+  {
+    "id": 173,
+    "category": "Admissions & Fees",
+    "question": "Are tuition fee concessions available for meritorious students?",
+    "answer": "Merit scholarships may be awarded by management to top rankers in 10+2/PUC examinations."
+  },
+  {
+    "id": 174,
+    "category": "Admissions & Fees",
+    "question": "What is the total fee for Ph.D. registration at TJIT?",
+    "answer": "Approximately ₹90,000 to ₹1,00,000 overall course fee plus VTU registration fees."
+  },
+  {
+    "id": 175,
+    "category": "Admissions & Fees",
+    "question": "Who should be contacted for direct management quota admission?",
+    "answer": "Admissions Office at +91-9845040804 or +91-9113264915."
+  },
+  {
+    "id": 176,
+    "category": "Infrastructure & Campus Life",
+    "question": "Where is T. John Institute of Technology located?",
+    "answer": "Gottigere, Bannerghatta Road, Bengaluru, Karnataka 560083."
+  },
+  {
+    "id": 177,
+    "category": "Infrastructure & Campus Life",
+    "question": "Are separate hostel facilities available for boys and girls?",
+    "answer": "Yes, there are distinct on-campus and near-campus hostel blocks for male and female students."
+  },
+  {
+    "id": 178,
+    "category": "Infrastructure & Campus Life",
+    "question": "What is the annual hostel fee at TJIT?",
+    "answer": "Hostel charges range from ₹90,000 to ₹1,01,000 per year, covering accommodation and mess facilities."
+  },
+  {
+    "id": 179,
+    "category": "Infrastructure & Campus Life",
+    "question": "What amenities are included in the hostel room?",
+    "answer": "Bed, study table, chair, wardrobe, 24/7 security, hot water, and mess food."
+  },
+  {
+    "id": 180,
+    "category": "Infrastructure & Campus Life",
+    "question": "Is vegetarian and non-vegetarian food served in the mess?",
+    "answer": "Yes, the central mess provides hygienic vegetarian and non-vegetarian meal plans."
+  },
+  {
+    "id": 181,
+    "category": "Infrastructure & Campus Life",
+    "question": "What is the hostel curfew time for resident students?",
+    "answer": "Student return time is strictly 6:30 PM–7:00 PM unless prior permission is granted by the warden."
+  },
+  {
+    "id": 182,
+    "category": "Infrastructure & Campus Life",
+    "question": "Does the TJIT campus have Wi-Fi coverage?",
+    "answer": "Wi-Fi is available across administrative, library, and laboratory areas."
+  },
+  {
+    "id": 183,
+    "category": "Infrastructure & Campus Life",
+    "question": "Is transportation available for day scholars?",
+    "answer": "Yes, a fleet of college buses covers key routes across Bengaluru city."
+  },
+  {
+    "id": 184,
+    "category": "Infrastructure & Campus Life",
+    "question": "What sports facilities are available on campus?",
+    "answer": "Facilities for cricket, football, basketball, volleyball, badminton, table tennis, and indoor games."
+  },
+  {
+    "id": 185,
+    "category": "Infrastructure & Campus Life",
+    "question": "Does TJIT have an active National Service Scheme (NSS) unit?",
+    "answer": "Yes, the NSS unit organizes blood donation drives, tree plantations, and rural service camps."
+  },
+  {
+    "id": 186,
+    "category": "Infrastructure & Campus Life",
+    "question": "What are the central library working hours?",
+    "answer": "The library operates from 8:30 AM to 5:30 PM on all working days (extended during exam periods)."
+  },
+  {
+    "id": 187,
+    "category": "Infrastructure & Campus Life",
+    "question": "Does the library provide access to online journals?",
+    "answer": "Yes, subscription access to IEEE, ScienceDirect, VTU Consortium, and e-books is provided."
+  },
+  {
+    "id": 188,
+    "category": "Infrastructure & Campus Life",
+    "question": "What medical facilities are available on campus?",
+    "answer": "A first-aid medical center with an on-call medical officer, plus proximity to major Bannerghatta Road hospitals."
+  },
+  {
+    "id": 189,
+    "category": "Infrastructure & Campus Life",
+    "question": "Does TJIT enforce a dress code policy?",
+    "answer": "Yes, students must follow a formal/semi-formal dress code. Casual attire like shorts and ripped jeans is prohibited."
+  },
+  {
+    "id": 190,
+    "category": "Infrastructure & Campus Life",
+    "question": "Is ragging strictly prohibited at TJIT?",
+    "answer": "Yes, TJIT maintains a zero-tolerance anti-ragging policy under UGC and VTU anti-ragging mandates."
+  },
+  {
+    "id": 191,
+    "category": "Infrastructure & Campus Life",
+    "question": "Who heads the Anti-Ragging Committee on campus?",
+    "answer": "The Principal heads the institutional anti-ragging committee alongside departmental senior faculty."
+  },
+  {
+    "id": 192,
+    "category": "Infrastructure & Campus Life",
+    "question": "Does TJIT have an Internal Complaints Committee (ICC) / Women Empowerment Cell?",
+    "answer": "Yes, dedicated cells handle safety, equality, and grievance redressal for female students and staff."
+  },
+  {
+    "id": 193,
+    "category": "Infrastructure & Campus Life",
+    "question": "What major annual cultural fest is celebrated at TJIT?",
+    "answer": "The campus celebrates annual cultural and technical fests featuring inter-collegiate competitions."
+  },
+  {
+    "id": 194,
+    "category": "Infrastructure & Campus Life",
+    "question": "Does the campus have a cafeteria and food court?",
+    "answer": "Yes, an indoor cafeteria provides daily meals, snacks, and beverages."
+  },
+  {
+    "id": 195,
+    "category": "Infrastructure & Campus Life",
+    "question": "Are ATM facilities accessible on or near campus?",
+    "answer": "Yes, ATM kiosks are located near the main entrance on Bannerghatta Road."
+  },
+  {
+    "id": 196,
+    "category": "Infrastructure & Campus Life",
+    "question": "What security measures are implemented across campus?",
+    "answer": "24/7 security personnel, gated access checkpoints, and full CCTV surveillance."
+  },
+  {
+    "id": 197,
+    "category": "Infrastructure & Campus Life",
+    "question": "How can parents track their ward’s academic performance?",
+    "answer": "Marks and attendance reports are sent to parents periodically via the college ERP SMS portal."
+  },
+  {
+    "id": 198,
+    "category": "Infrastructure & Campus Life",
+    "question": "Are stationary and photocopy shops available on campus?",
+    "answer": "Yes, a store on campus provides stationary, printing, and photocopying services."
+  },
+  {
+    "id": 199,
+    "category": "Infrastructure & Campus Life",
+    "question": "What official email ID can be used for general queries?",
+    "answer": "General inquiries can be sent to info@tjohngroup.com or tjitprincipal@tjohngroup.com."
+  },
+  {
+    "id": 200,
+    "category": "Infrastructure & Campus Life",
+    "question": "What is the official landline phone number for TJIT administration?",
+    "answer": "080-49030512 / 080-49030555."
+  }
+
+]
