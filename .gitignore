@@ -4,3 +4,7 @@ chroma_db/
 .ipynb_checkpoints/
 .env
 
+
+node_modules/
+__pycache__/
+.DS_Store
